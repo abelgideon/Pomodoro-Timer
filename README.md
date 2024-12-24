@@ -49,7 +49,6 @@ This project is part of freeCodeCamp's **Front End Development Libraries** cours
     - The timer will automatically switch between session and break, with an alert sound playing when the time is up.
 
 2. **GitHub Pages Deployment**: 
-
     Alternatively, you can access the live site [here](https://abelgideon.github.io/Pomodoro-Timer/).
 
 ## File Structure
