@@ -42,18 +42,11 @@ This project is part of freeCodeCamp's **Front End Development Libraries** cours
 ## Usage
 
 1. **Local Usage**:
-    1. **Set Timer**:
-        - Adjust the session and break durations using the `+` and `-` buttons.
-    
-    2. **Start/Pause Timer**:
-        - Click the **Play** button to start the timer.
-        - Click **Pause** to stop the timer.
-
-    3. **Reset Timer**:
-        - Click the **Reset** button to reset both the session and break timers to their default values (25 minutes for session, 5 minutes for break).
-
-    4. **End of Timer**:
-        - The timer will automatically switch between session and break, with an alert sound playing when the time is up.
+    - Adjust the session and break durations using the `+` and `-` buttons.
+    - Click the **Play** button to start the timer.
+    - Click **Pause** to stop the timer.
+    - Click the **Reset** button to reset both the session and break timers to their default values (25 minutes for session, 5 minutes for break).
+    - The timer will automatically switch between session and break, with an alert sound playing when the time is up.
 
 2. **GitHub Pages Deployment**: 
    Alternatively, you can access the live site [here](https://abelgideon.github.io/Pomodoro-Timer/).
