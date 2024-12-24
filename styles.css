@@ -1,0 +1,33 @@
+#root {
+  height: 100vh;
+}
+
+.row {
+  width: 30rem;
+  color: #fff;
+}
+
+.buttons {
+  color: #000;
+  font-size: 1.5rem;
+  width: 3rem;
+}
+
+#start_stop,
+#reset {
+  color: #000;
+  width: 4.4rem;
+  text-align: center;
+}
+
+.buttons:hover,
+#start_stop:hover,
+#reset:hover {
+  cursor: pointer;
+}
+
+.buttons,
+#start_stop,
+#reset {
+  user-select: none;
+}

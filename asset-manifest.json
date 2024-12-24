@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Pomodoro-Timer/static/js/main.5ceafc4c.js",
+    "index.html": "/Pomodoro-Timer/index.html",
+    "main.5ceafc4c.js.map": "/Pomodoro-Timer/static/js/main.5ceafc4c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5ceafc4c.js"
+  ]
+}
