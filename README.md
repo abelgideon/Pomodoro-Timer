@@ -1,6 +1,6 @@
 # Pomodoro Timer
 
-This project is part of freeCodeCamp's **Front End Development Libraries** course. The Pomodoro Timer helps users manage their work and break intervals by following the Pomodoro technique. It provides a simple interface to set work session and break durations, start or pause the timer, and reset it.
+The Pomodoro Timer helps users manage their work and break intervals by following the Pomodoro technique. It provides a simple interface to set work session and break durations, start or pause the timer, and reset it.
 
 ## Features
 
